@@ -1,4 +1,4 @@
-<img width="603" height="336" alt="image" src="https://github.com/user-attachments/assets/2c04f1cb-6b10-42bb-8c0a-9b61ac2afdc3" /># EDGE-TO-CLOUD-HEAT-MONITORING-FOR-INDUSTRIAL-ENVIRONMENTS
+ EDGE-TO-CLOUD-HEAT-MONITORING-FOR-INDUSTRIAL-ENVIRONMENTS
 Here is a **340-character** GitHub description:  IoT-based industrial monitoring system using LPC2148 to track temperature and gas/smoke levels in real time. Uses LM35, MQ-2, LCD, buzzer, and ESP-01 Wi-Fi for alerts and cloud logging via ThingSpeak, enabling remote monitoring, safety alerts, and efficient industrial automation.
 
 # Edge-to-Cloud Heat Monitoring for Industrial Environments
@@ -94,6 +94,7 @@ The system uses an LPC2148 microcontroller to collect sensor data, process it, a
 
 
 ---
+<img width="603" height="336" alt="image" src="https://github.com/user-attachments/assets/2c04f1cb-6b10-42bb-8c0a-9b61ac2afdc3" />#
 
 ## Applications
 - Industrial safety monitoring
