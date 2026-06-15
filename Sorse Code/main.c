@@ -39,8 +39,8 @@ int main()
 	while(1)
   	{
 		Write_CMD_LCD(0x80);
-		read_adc(1,&temp_voltage,&adc_val);//Read Temperature sensor
-		temperature = temp_voltage * 100;//calculating temperature sensor
+		read_adc(1,&temp_voltage,&adc_val);//Read ADC value from temperature sensor channel 1
+		temperature = temp_voltage * 100;//Convert sensor output voltage to temperature (°C)
 		Write_str_LCD("TEMP: ");//Display Temperature on LCD
 		Write_int_LCD(temperature);
 		Write_DAT_LCD(223);
